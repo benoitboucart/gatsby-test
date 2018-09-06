@@ -2,7 +2,7 @@ import React from "react";
 
 import Container from "../components/container";
 import User from "../components/user";
-import styles from "./about-css-modules.module.css";
+import styles from "./about-css-modules.module.scss";
 
 export default () => (
   <Container>
