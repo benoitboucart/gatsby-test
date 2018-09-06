@@ -12,6 +12,8 @@
     "gatsby-link": "^1.6.46",
     "gatsby-plugin-typography": "^1.7.19",
     "react-typography": "^0.16.13",
-    "typography": "^0.16.17"
+    "typography": "^0.16.17",
+    "typography-theme-bootstrap": "^0.16.7",
+    "typography-theme-lawton": "^0.15.10"
   }
 }

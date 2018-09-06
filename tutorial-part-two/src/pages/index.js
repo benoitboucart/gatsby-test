@@ -27,4 +27,4 @@ export default () => (
     </div>
     <p>Posted April 09, 2011</p>
   </div>
-)
+);
