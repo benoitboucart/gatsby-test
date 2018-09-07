@@ -12,7 +12,7 @@ module.exports = {
         background_color: "#6b37bf",
         theme_color: "#6b37bf",
         display: "minimal-ui",
-        icon: "src/images/icon.png", // This path is relative to the root of the site.
+        // icon: "src/images/icon.png", // This path is relative to the root of the site.
       },
     },
     // The manifest plugin should be listed before the 
