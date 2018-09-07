@@ -4,6 +4,8 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-emotion`,
+
+    /** Markdown loader & transformer */
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -11,6 +13,9 @@ module.exports = {
         path: `${__dirname}/src/`,
       },
     },
+
+    `gatsby-transformer-remark`,
+
     {
       resolve: `gatsby-plugin-typography`,
       options: {
